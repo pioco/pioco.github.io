@@ -11,7 +11,7 @@ Alustava idea jäsenyyden ehdoista:
   - joiden opinnot ovat joko valmiit, tai ainakin "hiipuneet"
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
-Alustavasti ideana on:
+Alustavasti TODO-listana on:
   - rekisteröidä yhdistys ja hyväksyä yhdistyksen säännöt
   - valita yhdistykselle hallitus
   - tehdä näitä sivuja paremmat nettisivut
@@ -19,6 +19,13 @@ Alustavasti ideana on:
   - muodostaa jäsenrekisteri ja alkaa hyväksymään jäseniä
   - kasata alkeellinen sähköpostilista
   - suorittaa jäsenhankintaa
+  
+Tehdyt jutut:
+  - Domain: ostettu
+  - Pientä lämmittelyä: harjoitettu
+  - Ensimmäinen sääntöluonnos: kirjoitettu
+  - Infraratkaisuja: kartoitettu
+  - MVP-nettisivut: "jos luet tätä..."
   
 Haaveena olisi saada ainakin kriittisimmät näistä hoidettua ennen Ylivuoto45-vuosijuhlia. Olisi mukava julkistaa tämä
 projekti siellä.
