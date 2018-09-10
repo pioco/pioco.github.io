@@ -12,10 +12,22 @@ Alustava idea jäsenyyden ehdoista:
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
 Alustavasti TODO-listana on:
-  - rekisteröidä yhdistys ja hyväksyä yhdistyksen säännöt
-  - valita yhdistykselle hallitus
+  - päättää perustamiskokouksen päivämäärä ja yrittää hommata sinne osallistujia
+  - pitää perustamiskokous
+  - rekisteröidä yhdistys
+  - pitää ensimmäinen varsinainen yhdistyksen kokous ja valita yhdistykselle hallitus
+  - tehdä päätös mahdollisesta jäsenmaksusta tai liittymismaksusta
+    * yhdistyksen kiinteät kulut jäänevät toistaiseksi pieneksi, joten tämä ei ole iso stressin paikka
+      - Holvi.com ilmainen tai 5 e/kk jäsenyysverkkokauppa
+      - Domain n. 9 e vuosi
+      - Hostaus: github pages, ilmainen
+      - Sähköpostilista(t): Mailchimp? alustavan kartoituksen pohjalta ilmainen
+      - https://support.google.com/nonprofits/answer/3367223?hl=fi (ilmainen)
+      - Jäsenrekisteri: kysymysmerkki, ehkä jotain Google App Enginen tms. päälle
+        tai AWS:ään -- https://techsoup.fi/node/8379 (data Suomessa olisi kyllä kiva)
   - tehdä näitä sivuja paremmat nettisivut
   - hankkia yhdistykselle tili Holvi.comista tai vastaavasta palvelusta
+  - kirjoittaa jäsenrekisterin tietosuojaseloste
   - muodostaa jäsenrekisteri ja alkaa hyväksymään jäseniä
   - kasata alkeellinen sähköpostilista
   - suorittaa jäsenhankintaa
