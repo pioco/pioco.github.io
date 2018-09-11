@@ -46,10 +46,11 @@ projekti siellä.
 
 Onko tarkoituksena kilpailla Blankon/Potkyn/yliopiston alumnitoiminnan/jne. kanssa?
   - Ei. Blanko on tarkoitettu aktiivisille opiskelijoille. Potkyn toimintaan osallistuminen on suositeltavaa, mutta
-    sen tavoite on hiukan eri alumniyhdistykseen verrattuna, eikä esimerkiksi vuosikurssitapaaminen organisointi ole
+    sen tavoite on hiukan eri alumniyhdistykseen verrattuna, eikä esimerkiksi vuosikurssitapaamisen organisointi ole
     oikein Potkyn päätehtävän kanssa 1:1 (lisäksi Potkyn jäseneksi voi liittyä kuka tahansa IT-alan ihminen). Yliopiston
     alumnitoiminta taas on jäänyt ainakin toistaiseksi etäiseksi, ja vuosikurssisähköpostilistojen jne. muodostaminen
-    on tuskin pääasiallisena ideana "virallisessa" alumnitoiminnassa, ja se keskittyy suorittamaan sitä eri tavalla.
+    on tuskin pääasiallisena ideana "virallisessa" alumnitoiminnassa. Lisäksi yliopiston alumnitoiminta on luultavasti
+    suunnattu valmistuneille.
   
 Onko ajatuksena järjestää tapahtumia?
   - Pidemmän päälle ehkä, mutta aluksi päähaasteena on vuosikurssisähköpostilistojen ja edes jonkinlaisen löyhän yhteisön 
