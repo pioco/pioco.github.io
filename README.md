@@ -6,12 +6,20 @@ Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
 Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille ihmisille.
 
+---
+### Perustamiskokouksen ajankohdan doodle
+-> **<https://doodle.com/poll/zzwhg73mhr9zr99a>** <-
+---
+
+### Yleistä suunnitelmaa
+
 Alustava idea jäsenyyden ehdoista:
   - kaikki tollilla ainakin jonkin verran opiskelleet
   - joiden opinnot ovat joko valmiit, tai ainakin "hiipuneet"
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
 Alustavasti TODO-listana on:
+  - harkita näiden siirtoa github issueisiin tai trelloon
   - päättää perustamiskokouksen päivämäärä ja yrittää hommata sinne osallistujia
   - pitää perustamiskokous
   - rekisteröidä yhdistys
@@ -22,9 +30,9 @@ Alustavasti TODO-listana on:
       - Domain n. 9 e vuosi
       - Hostaus: github pages, ilmainen
       - Sähköpostilista(t): Mailchimp? alustavan kartoituksen pohjalta ilmainen
-      - https://support.google.com/nonprofits/answer/3367223?hl=fi (ilmainen)
+      - [https://support.google.com/nonprofits/answer/3367223?hl=fi] (ilmainen)
       - Jäsenrekisteri: kysymysmerkki, ehkä jotain Google App Enginen tms. päälle
-        tai AWS:ään -- https://techsoup.fi/node/8379 (data Suomessa olisi kyllä kiva)
+        tai AWS:ään -- [https://techsoup.fi/node/8379] (data Suomessa olisi kyllä kiva)
   - tehdä näitä sivuja paremmat nettisivut
   - hankkia yhdistykselle tili Holvi.comista tai vastaavasta palvelusta
   - kirjoittaa jäsenrekisterin tietosuojaseloste
@@ -63,3 +71,4 @@ Onko kyseessä Blankon jatke?
     
 Mistä saan lisätietoja?
   - info@pioco.fi
+  - @Mutjake
