@@ -61,4 +61,4 @@ Onko kyseessä Blankon jatke?
     Oletettavasti jutunjuurta löytyy ihan aikuis- ja työelämäänkin liittyvistä jutuista, joten ovet ovat avoimina :-)
     
 Mistä saan lisätietoja?
-  - @Mutjake
+  - info@pioco.fi
