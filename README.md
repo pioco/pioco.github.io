@@ -9,6 +9,10 @@ Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkä
 ### Perustamiskokouksen ajankohdan doodle
 -> **<https://doodle.com/poll/zzwhg73mhr9zr99a>** <-
 
+### In English
+
+This is a work-in-progress project to create an alumni organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, after the paperwork is done and we actually have time for a proper website).
+
 ### Yleistä suunnitelmaa
 
 Alustava idea jäsenyyden ehdoista:
@@ -38,6 +42,7 @@ Alustavasti TODO-listana on:
   - kasata alkeellinen sähköpostilista
   - suorittaa jäsenhankintaa
   - miettiä ei-jäsenten liittyminen listoille
+  - In English?
   
 Tehdyt jutut:
   - Domain: ostettu
