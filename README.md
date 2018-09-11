@@ -48,6 +48,8 @@ Tehdyt jutut:
   - Domain: ostettu
   - Pientä lämmittelyä: harjoitettu
   - Ensimmäinen sääntöluonnos: kirjoitettu
+    * [https://docs.google.com/document/d/1tK8bKiIoWT6BuToc6oCv4SkE0y8X_dWxLP7GsqSVi3U/edit?usp=sharing]
+    * TODO: muokkaa säännöistä kahden vuosittaisen kokouksen variantti (valitaan sitten jompikumpi)
   - Infraratkaisuja: kartoitettu
   - MVP-nettisivut: "jos luet tätä..."
   
