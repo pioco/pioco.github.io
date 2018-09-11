@@ -6,10 +6,8 @@ Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
 Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille ihmisille.
 
----
 ### Perustamiskokouksen ajankohdan doodle
 -> **<https://doodle.com/poll/zzwhg73mhr9zr99a>** <-
----
 
 ### Yleistä suunnitelmaa
 
