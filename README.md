@@ -37,6 +37,7 @@ Alustavasti TODO-listana on:
   - muodostaa jäsenrekisteri ja alkaa hyväksymään jäseniä
   - kasata alkeellinen sähköpostilista
   - suorittaa jäsenhankintaa
+  - miettiä ei-jäsenten liittyminen listoille
   
 Tehdyt jutut:
   - Domain: ostettu
