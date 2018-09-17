@@ -8,6 +8,8 @@ Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkä
 
 ### Perustamiskokous Oulun yliopistolla, Tellus-areenan kokoustila Brisk, maanantaina 24.9. klo 18. Tervetuloa!
 
+Mikäli haluat viestintää aiheesta (esityslistan etukäteen yms.), laita sähköpostia osoitteeseen info@pioco.fi – tai ilmaannu vain paikalle :-)
+
 Kokousdoodlen linkki: https://doodle.com/poll/zzwhg73mhr9zr99a
 
 ### In English
