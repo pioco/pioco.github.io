@@ -21,8 +21,10 @@ Alustava idea jäsenyyden ehdoista:
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
 Alustavasti TODO-listana on:
-  - harkita näiden siirtoa github issueisiin tai trelloon
-  - päättää perustamiskokouksen päivämäärä ja yrittää hommata sinne osallistujia
+  - hommata osallistujia perustamiskokoukseen
+  - muokata ensimmäisestä sääntöluonnoksesta kahden kokouksen mallilla oleva vaihtoehto
+  - päivittää sääntöluonnokseen "tietojenkäsittelytieteitä opiskellut" muotoon, joka ottaa myös menneet
+    ja tulevat termistöt huomioon
   - pitää perustamiskokous
   - rekisteröidä yhdistys
   - pitää ensimmäinen varsinainen yhdistyksen kokous ja valita yhdistykselle hallitus
@@ -42,6 +44,7 @@ Alustavasti TODO-listana on:
   - kasata alkeellinen sähköpostilista
   - suorittaa jäsenhankintaa
   - miettiä ei-jäsenten liittyminen listoille
+  - harkita näiden siirtoa github issueisiin tai trelloon (ehkä sitten yhdistyksen perustamisen jälkeen)
   - In English?
   
 Tehdyt jutut:
@@ -49,9 +52,11 @@ Tehdyt jutut:
   - Pientä lämmittelyä: harjoitettu
   - Ensimmäinen sääntöluonnos: kirjoitettu
     * [https://docs.google.com/document/d/1tK8bKiIoWT6BuToc6oCv4SkE0y8X_dWxLP7GsqSVi3U/edit?usp=sharing]
-    * TODO: muokkaa säännöistä kahden vuosittaisen kokouksen variantti (valitaan sitten jompikumpi)
   - Infraratkaisuja: kartoitettu
   - MVP-nettisivut: "jos luet tätä..."
+  - Perustamiskokouksen ajankohta päätetty ja tilavaraus tehty
+    * Tellus Areena, "Varasin teille Briskin kokoustanne varten 24.9. klo.18-20."
+
   
 Haaveena olisi saada ainakin kriittisimmät näistä hoidettua ennen Ylivuoto45-vuosijuhlia. Olisi mukava julkistaa tämä
 projekti siellä.
