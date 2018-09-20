@@ -25,8 +25,9 @@ Alustava idea jäsenyyden ehdoista:
  
 Alustavasti TODO-listana on:
 
-  - tee kunnollinen esityslista
+  - tehdä kunnollinen esityslista
     * Betaversio @ [https://docs.google.com/document/d/1boJB73oJ4YRE1RRucX5ob4E6VpKx0CLRQ7CtPWQ4hZk/edit?usp=sharing]
+  - tehdä alustava toimintasuunnitelma
   - hommata osallistujia perustamiskokoukseen
   - pitää perustamiskokous
   - rekisteröidä yhdistys
