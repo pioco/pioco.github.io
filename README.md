@@ -24,10 +24,10 @@ Alustava idea jäsenyyden ehdoista:
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
 Alustavasti TODO-listana on:
+
+  - tee kunnollinen esityslista
+    * Betaversio @ [https://docs.google.com/document/d/1boJB73oJ4YRE1RRucX5ob4E6VpKx0CLRQ7CtPWQ4hZk/edit?usp=sharing]
   - hommata osallistujia perustamiskokoukseen
-  - muokata ensimmäisestä sääntöluonnoksesta kahden kokouksen mallilla oleva vaihtoehto
-  - päivittää sääntöluonnokseen "tietojenkäsittelytieteitä opiskellut" muotoon, joka ottaa myös menneet
-    ja tulevat termistöt huomioon
   - pitää perustamiskokous
   - rekisteröidä yhdistys
   - pitää ensimmäinen varsinainen yhdistyksen kokous ja valita yhdistykselle hallitus
@@ -53,10 +53,14 @@ Alustavasti TODO-listana on:
 Tehdyt jutut:
   - Domain: ostettu
   - Pientä lämmittelyä: harjoitettu
-  - Ensimmäinen sääntöluonnos: kirjoitettu
-    * [https://docs.google.com/document/d/1tK8bKiIoWT6BuToc6oCv4SkE0y8X_dWxLP7GsqSVi3U/edit?usp=sharing]
+  - Ensimmäiset sääntöluonnosvaihtoehdot: kirjoitettu
+    * Yksi kokous vuodessa: [https://docs.google.com/document/d/1tK8bKiIoWT6BuToc6oCv4SkE0y8X_dWxLP7GsqSVi3U/edit?usp=sharing]
+    * Kaksi kokousta vuodessa: [https://docs.google.com/document/d/1otHbLyYZ_j9gZmdipc2UaPmlU3dHFupin6BctB7UDSk/edit?usp=sharing]
   - Infraratkaisuja: kartoitettu
   - MVP-nettisivut: "jos luet tätä..."
+  - muokata ensimmäisestä sääntöluonnoksesta kahden kokouksen mallilla oleva vaihtoehto
+  - päivittää sääntöluonnokseen "tietojenkäsittelytieteitä opiskellut" muotoon, joka ottaa myös menneet
+    ja tulevat termistöt huomioon
   - Perustamiskokouksen ajankohta päätetty ja tilavaraus tehty
     * Tellus Areena, "Varasin teille Briskin kokoustanne varten 24.9. klo.18-20."
 
