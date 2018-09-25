@@ -6,12 +6,6 @@ Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
 Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille ihmisille.
 
-### Perustamiskokous Oulun yliopistolla, Tellus-areenan kokoustila Brisk, maanantaina 24.9. klo 18. Tervetuloa!
-
-Mikäli haluat viestintää aiheesta (esityslistan etukäteen yms.), laita sähköpostia osoitteeseen info@pioco.fi – tai ilmaannu vain paikalle :-)
-
-Kokousdoodlen linkki: https://doodle.com/poll/zzwhg73mhr9zr99a
-
 ### In English
 
 This is a work-in-progress project to create an alumni organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, after the paperwork is done and we actually have time for a proper website).
@@ -23,7 +17,7 @@ Alustava idea jäsenyyden ehdoista:
   - joiden opinnot ovat joko valmiit, tai ainakin "hiipuneet"
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
  
-Alustavasti TODO-listana on:
+Alustavasti TODO-listana on (HOX: ei ajan tasalla, päivitetään piakkoin):
 
   - tehdä kunnollinen esityslista
     * Betaversio @ [https://docs.google.com/document/d/1boJB73oJ4YRE1RRucX5ob4E6VpKx0CLRQ7CtPWQ4hZk/edit?usp=sharing]
@@ -64,6 +58,15 @@ Tehdyt jutut:
     ja tulevat termistöt huomioon
   - Perustamiskokouksen ajankohta päätetty ja tilavaraus tehty
     * Tellus Areena, "Varasin teille Briskin kokoustanne varten 24.9. klo.18-20."
+  - Perustamiskokous pidetty ja säännöt valittu
+  - PRH:n hakemus vetämässä
+  - VT-hallitus:
+    * Juho Myllylahti, pj
+    * Aleksi Pöyhtäri, vpj
+    * Joonas Tiala, rahis
+    * Anna Tiala
+    * Heidi Wikman
+    * Henrik Hedberg
 
   
 Haaveena olisi saada ainakin kriittisimmät näistä hoidettua ennen Ylivuoto45-vuosijuhlia. Olisi mukava julkistaa tämä
@@ -88,6 +91,6 @@ Onko kyseessä Blankon jatke?
   - Tarkoituksena on muodostaa yhdistys kaikille tollilla opiskelleille, eli Blankon jäsenkirja ei ole vaatimus.
     Oletettavasti jutunjuurta löytyy ihan aikuis- ja työelämäänkin liittyvistä jutuista, joten ovet ovat avoimina :-)
     
-Mistä saan lisätietoja?
+# Contact
   - info@pioco.fi
   - @Mutjake
