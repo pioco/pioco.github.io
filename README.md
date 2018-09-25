@@ -18,6 +18,7 @@ Alustava idea jäsenyyden ehdoista:
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
   
   [Perustamiskokouksen pöytäkirja](https://github.com/pioco/pioco.github.io/raw/master/Pioco%20ry%20perustamiskokouksen%20p%C3%B6yt%C3%A4kirja.pdf)
+  
   [Perustamiskokouksessa hyväksytyt säännöt, odottavat PRH:n hyväksyntää](https://github.com/pioco/pioco.github.io/raw/master/Pioco_ry_s%C3%A4%C3%A4nn%C3%B6t.pdf)
   
 Epävirallinen backlog:
