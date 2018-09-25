@@ -16,16 +16,14 @@ Alustava idea jäsenyyden ehdoista:
   - kaikki tollilla ainakin jonkin verran opiskelleet
   - joiden opinnot ovat joko valmiit, tai ainakin "hiipuneet"
   - joiden aloitusvuodesta on kulunut yli viisi vuotta
- 
-Alustavasti TODO-listana on (HOX: ei ajan tasalla, päivitetään piakkoin):
-
-  - tehdä kunnollinen esityslista
-    * Betaversio @ [https://docs.google.com/document/d/1boJB73oJ4YRE1RRucX5ob4E6VpKx0CLRQ7CtPWQ4hZk/edit?usp=sharing]
-  - tehdä alustava toimintasuunnitelma
-  - hommata osallistujia perustamiskokoukseen
-  - pitää perustamiskokous
-  - rekisteröidä yhdistys
-  - pitää ensimmäinen varsinainen yhdistyksen kokous ja valita yhdistykselle hallitus
+  
+  [Perustamiskokouksen pöytäkirja](https://github.com/pioco/pioco.github.io/raw/master/Pioco%20ry%20perustamiskokouksen%20p%C3%B6yt%C3%A4kirja.pdf)
+  [Perustamiskokouksessa hyväksytyt säännöt, odottavat PRH:n hyväksyntää](https://github.com/pioco/pioco.github.io/raw/master/Pioco_ry_s%C3%A4%C3%A4nn%C3%B6t.pdf)
+  
+Epävirallinen backlog:
+  - tehdä toimintasuunnitelma
+  - tehdä talousarvio
+  - rekisteröidä yhdistys (odottaa PRH:n kuittausta)
   - tehdä päätös mahdollisesta jäsenmaksusta tai liittymismaksusta
     * yhdistyksen kiinteät kulut jäänevät toistaiseksi pieneksi, joten tämä ei ole iso stressin paikka
       - Holvi.com ilmainen tai 5 e/kk jäsenyysverkkokauppa
@@ -39,7 +37,7 @@ Alustavasti TODO-listana on (HOX: ei ajan tasalla, päivitetään piakkoin):
   - hankkia yhdistykselle tili Holvi.comista tai vastaavasta palvelusta
   - kirjoittaa jäsenrekisterin tietosuojaseloste
   - muodostaa jäsenrekisteri ja alkaa hyväksymään jäseniä
-  - kasata alkeellinen sähköpostilista
+  - kasata edes jonkinlainen sähköpostilista
   - suorittaa jäsenhankintaa
   - miettiä ei-jäsenten liittyminen listoille
   - harkita näiden siirtoa github issueisiin tai trelloon (ehkä sitten yhdistyksen perustamisen jälkeen)
@@ -70,7 +68,7 @@ Tehdyt jutut:
 
   
 Haaveena olisi saada ainakin kriittisimmät näistä hoidettua ennen Ylivuoto45-vuosijuhlia. Olisi mukava julkistaa tämä
-projekti siellä.
+projekti siellä...vaikka onhan tämä jo jossain määrin julkistettu ;-)
 
 ### FAQ:
 
