@@ -1,4 +1,4 @@
-## Rekisteröimätön yhdistys Pioco
+## Pioco ry
 
 Hei,
 
@@ -24,7 +24,6 @@ Alustava idea jäsenyyden ehdoista:
 Epävirallinen backlog:
   - tehdä toimintasuunnitelma
   - tehdä talousarvio
-  - rekisteröidä yhdistys (odottaa PRH:n kuittausta)
   - tehdä päätös mahdollisesta jäsenmaksusta tai liittymismaksusta
     * yhdistyksen kiinteät kulut jäänevät toistaiseksi pieneksi, joten tämä ei ole iso stressin paikka
       - Holvi.com ilmainen tai 5 e/kk jäsenyysverkkokauppa
@@ -47,18 +46,13 @@ Epävirallinen backlog:
 Tehdyt jutut:
   - Domain: ostettu
   - Pientä lämmittelyä: harjoitettu
-  - Ensimmäiset sääntöluonnosvaihtoehdot: kirjoitettu
-    * Yksi kokous vuodessa: [https://docs.google.com/document/d/1tK8bKiIoWT6BuToc6oCv4SkE0y8X_dWxLP7GsqSVi3U/edit?usp=sharing]
-    * Kaksi kokousta vuodessa: [https://docs.google.com/document/d/1otHbLyYZ_j9gZmdipc2UaPmlU3dHFupin6BctB7UDSk/edit?usp=sharing]
+  - Yhdistys: rekisteröity 
+  - Säännöt: hyväksytty (Kaksi kokousta vuodessa): [https://docs.google.com/document/d/1otHbLyYZ_j9gZmdipc2UaPmlU3dHFupin6BctB7UDSk/edit?usp=sharing]
   - Infraratkaisuja: kartoitettu
   - MVP-nettisivut: "jos luet tätä..."
-  - muokata ensimmäisestä sääntöluonnoksesta kahden kokouksen mallilla oleva vaihtoehto
-  - päivittää sääntöluonnokseen "tietojenkäsittelytieteitä opiskellut" muotoon, joka ottaa myös menneet
-    ja tulevat termistöt huomioon
   - Perustamiskokouksen ajankohta päätetty ja tilavaraus tehty
     * Tellus Areena, "Varasin teille Briskin kokoustanne varten 24.9. klo.18-20."
   - Perustamiskokous pidetty ja säännöt valittu
-  - PRH:n hakemus vetämässä
   - VT-hallitus:
     * Juho Myllylahti, pj
     * Aleksi Pöyhtäri, vpj
