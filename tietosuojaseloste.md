@@ -2,14 +2,20 @@
  
 ## 1. Rekisterinpitäjä
 Pioco ry
+
 info@pioco.fi
+
 https://pioco.fi
  
 ## 2. Rekisteristä vastaava yhteyshenkilö
 Juho Myllylahti
+
 Yliopistokatu 46 A 209
+
 90570 Oulu
+
 juho.myllylahti@iki.fi
+
 0408467712
  
 ## 3. Rekisterin nimi
