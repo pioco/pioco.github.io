@@ -6,6 +6,10 @@ Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
 Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille ihmisille.
 
+### Slack-kutsu
+
+Slack-kutsuille löytyy botti osoitteesta [https://pioco.fi/liity](https://pioco.fi/liity)
+
 ### In English
 
 This is a work-in-progress project to create an alumni organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, after the paperwork is done and we actually have time for a proper website).
