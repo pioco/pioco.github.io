@@ -4,7 +4,7 @@ Hei,
 
 Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
-Pioco ry on alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille tai laitoksella työskennelleille ihmisille.
+Pioco ry on riippumaton alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille tai laitoksella työskennelleille ihmisille.
 
 ### Slack-kutsu
 
@@ -18,7 +18,7 @@ Ensimmäinen Pioco ry:n after work järjestetään tiistaina 11. joulukuuta kell
 
 ### In English
 
-Pioco ry is an organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, at the moment we're still WIP with even the Finnish materials :-)
+Pioco ry is an independent association for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, at the moment we're still WIP with even the Finnish materials :-)
 
 ### Yleistä suunnitelmaa
 
