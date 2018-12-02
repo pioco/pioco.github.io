@@ -29,7 +29,7 @@ Alustava idea jäsenyyden ehdoista:
   
   [Perustamiskokouksen pöytäkirja](https://github.com/pioco/pioco.github.io/raw/master/Pioco%20ry%20perustamiskokouksen%20p%C3%B6yt%C3%A4kirja.pdf)
   
-  [Perustamiskokouksessa hyväksytyt säännöt, PRH:n vahvistamat säännöt](https://github.com/pioco/pioco.github.io/raw/master/Pioco_ry_s%C3%A4%C3%A4nn%C3%B6t.pdf)
+  [Perustamiskokouksessa hyväksytyt, PRH:n vahvistamat säännöt](https://github.com/pioco/pioco.github.io/raw/master/Pioco_ry_s%C3%A4%C3%A4nn%C3%B6t.pdf)
   
   [Yhdistyksen perustiedot PRH:n sivuilla, tulevaa käyttöä varten](http://yhdistysrekisteri.prh.fi/pertied.htx?kieli=1&reknro=222385)
 
