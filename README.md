@@ -4,7 +4,7 @@ Hei,
 
 Tervetuloa Pioco ry:n prototyyppikotisivuille!
 
-Pioco ry:n ajatuksena on muodostaa alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille ihmisille.
+Pioco ry on alumniyhdistys Oulun yliopistossa tietojenkäsittelytieteitä opiskelleille tai laitoksella työskennelleille ihmisille.
 
 ### Slack-kutsu
 
@@ -12,9 +12,13 @@ Slack-kutsuille löytyy botti osoitteesta [https://pioco.fi/liity](https://pioco
 
 PS. Löytyy myös #pioco @ IRCnet
 
+### After work
+
+Ensimmäinen Pioco ry:n after work järjestetään tiistaina 11. joulukuuta kello 17-20 Cafe Roosterin yläkerrassa, tervetuloa! Seuraava pyritään järjestämään sitten tammi-helmikuun taitteessa ensi vuonna.
+
 ### In English
 
-This is a work-in-progress project to create an alumni organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, after the paperwork is done and we actually have time for a proper website).
+Pioco ry is an organization for the alumni of the department of information processing science @ University of Oulu. Email info@pioco.fi if you want to know more (we'll try to get English material online at a later date, at the moment we're still WIP with even the Finnish materials :-)
 
 ### Yleistä suunnitelmaa
 
@@ -28,50 +32,15 @@ Alustava idea jäsenyyden ehdoista:
   [Perustamiskokouksessa hyväksytyt säännöt, PRH:n vahvistamat säännöt](https://github.com/pioco/pioco.github.io/raw/master/Pioco_ry_s%C3%A4%C3%A4nn%C3%B6t.pdf)
   
   [Yhdistyksen perustiedot PRH:n sivuilla, tulevaa käyttöä varten](http://yhdistysrekisteri.prh.fi/pertied.htx?kieli=1&reknro=222385)
-  
-Epävirallinen backlog:
-  - tehdä toimintasuunnitelma
-  - tehdä talousarvio
-  - tehdä päätös mahdollisesta jäsenmaksusta tai liittymismaksusta
-    * yhdistyksen kiinteät kulut jäänevät toistaiseksi pieneksi, joten tämä ei ole iso stressin paikka
-      - Holvi.com ilmainen tai 5 e/kk jäsenyysverkkokauppa
-      - Domain n. 9 e vuosi
-      - Hostaus: github pages, ilmainen
-      - Sähköpostilista(t): Mailchimp? alustavan kartoituksen pohjalta ilmainen
-      - [https://support.google.com/nonprofits/answer/3367223?hl=fi] (ilmainen)
-      - Jäsenrekisteri: kysymysmerkki, ehkä jotain Google App Enginen tms. päälle
-        tai AWS:ään -- [https://techsoup.fi/node/8379] (data Suomessa olisi kyllä kiva)
-  - tehdä näitä sivuja paremmat nettisivut
-  - hankkia yhdistykselle tili Holvi.comista tai vastaavasta palvelusta
-  - kirjoittaa jäsenrekisterin tietosuojaseloste
-  - muodostaa jäsenrekisteri ja alkaa hyväksymään jäseniä
-  - kasata edes jonkinlainen sähköpostilista
-  - suorittaa jäsenhankintaa
-  - miettiä ei-jäsenten liittyminen listoille
-  - harkita näiden siirtoa github issueisiin tai trelloon (ehkä sitten yhdistyksen perustamisen jälkeen)
-  - In English?
-  
-Tehdyt jutut:
-  - Domain: ostettu
-  - Pientä lämmittelyä: harjoitettu
-  - Yhdistys: rekisteröity 
-  - Säännöt: hyväksytty (Kaksi kokousta vuodessa): [https://docs.google.com/document/d/1otHbLyYZ_j9gZmdipc2UaPmlU3dHFupin6BctB7UDSk/edit?usp=sharing]
-  - Infraratkaisuja: kartoitettu
-  - MVP-nettisivut: "jos luet tätä..."
-  - Perustamiskokouksen ajankohta päätetty ja tilavaraus tehty
-    * Tellus Areena, "Varasin teille Briskin kokoustanne varten 24.9. klo.18-20."
-  - Perustamiskokous pidetty ja säännöt valittu
-  - VT-hallitus:
+
+### Hallitus
+
     * Juho Myllylahti, pj
     * Aleksi Pöyhtäri, vpj
-    * Joonas Tiala, rahis
+    * Joonas Tiala, rahastonhoitaja
     * Anna Tiala
     * Heidi Wikman
     * Henrik Hedberg
-
-  
-Haaveena olisi saada ainakin kriittisimmät näistä hoidettua ennen Ylivuoto45-vuosijuhlia. Olisi mukava julkistaa tämä
-projekti siellä...vaikka onhan tämä jo jossain määrin julkistettu ;-)
 
 ### FAQ:
 
@@ -93,5 +62,5 @@ Onko kyseessä Blankon jatke?
     Oletettavasti jutunjuurta löytyy ihan aikuis- ja työelämäänkin liittyvistä jutuista, joten ovet ovat avoimina :-)
     
 # Contact
-  - info@pioco.fi
-  - @Mutjake
+
+  - hallitus@pioco.fi
