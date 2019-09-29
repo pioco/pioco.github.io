@@ -3,7 +3,7 @@ layout: page
 title: Yhdistyksen säännöt
 permalink: /saannot/
 redirect_from:
- - /docs/in_english/
+ - /docs/saannot/
 ---
 
 ### Nimi ja kotipaikka
