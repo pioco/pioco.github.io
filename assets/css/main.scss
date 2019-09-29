@@ -9,6 +9,12 @@ body {
     background-color: #DDDDDD;
     margin: 0;
     height: 100%;
+    a {
+        color: black;
+    }
+    a i {
+        color: #0B3954;
+    }
 }
 
 .header {
@@ -16,18 +22,19 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 20vh;
-}
 
-a {
-    text-decoration: none !important;
-    border-bottom-style: none;
-    color: white;
-}
-
-a i {
-    text-decoration: none !important;
-    border-bottom-style: none;
-    color: white;
+    a {
+        text-decoration: none !important;
+        border-bottom-style: none;
+        color: white;
+    }
+    
+    a i {
+        text-decoration: none !important;
+        border-bottom-style: none;
+        color: white;
+    }
+    
 }
 
 .some-buttons {
@@ -81,6 +88,16 @@ a i {
     margin-top: 10px;
     margin-bottom: 0;
 }
+
+#membership-application-form-red {
+    a {
+        color: #F83E3E;
+    }
+    a i {
+        color: #F83E3E;
+    }
+}
+
 
 @media screen and (max-width: 600px) {
     #header-logo {

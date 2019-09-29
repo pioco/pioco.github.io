@@ -1,6 +1,6 @@
-- title: Liity tiedotuslistalle ja Slackiin
+- title: Liity Pioco ry:n jäseneksi
   link: /liity/
-  open_in_new_window: true
+  open_in_new_window: false
 - title: Tietoa yhdistyksestä
   link: /tietoa_piocosta/
   open_in_new_window: false
@@ -15,4 +15,7 @@
   open_in_new_window: false
 - title: Yhteystiedot
   link: /yhteystiedot/
+  open_in_new_window: false
+- title: Tietosuoja
+  link: /tietosuoja/
   open_in_new_window: false
