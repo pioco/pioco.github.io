@@ -10,12 +10,12 @@
 - title: Hallitus
   link: /hallitus/
   open_in_new_window: false
-- title: In English
-  link: /in_english/
-  open_in_new_window: false
 - title: Yhteystiedot
   link: /yhteystiedot/
   open_in_new_window: false
 - title: Tietosuoja
   link: /tietosuoja/
+  open_in_new_window: false
+- title: In English
+  link: /in_english/
   open_in_new_window: false
