@@ -4,16 +4,13 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
-
 ### Gulp ###
 package.json
 /node_modules/
 
-
 ### Atom ###
 .ftpconfig
 .sftpconfig
-
 
 ### Compiled Source ###
 *.com
@@ -22,7 +19,6 @@ package.json
 *.exe
 *.o
 *.so
-
 
 ### Compressed Packages ###
 *.7z
@@ -34,19 +30,16 @@ package.json
 *.tar
 *.zip
 
-
 ### Logs and Databases ###
 *.log
 *.sql
 *.sqlite
-
 
 ### Linux ###
 *~
 .fuse_hidden*
 .Trash-*
 .nfs*
-
 
 ### MacOS ###
 *.DS_Store
@@ -66,7 +59,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
 
 ### Windows ###
 Thumbs.db

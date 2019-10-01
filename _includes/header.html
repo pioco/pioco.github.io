@@ -1,37 +1,36 @@
 <header class="header">
-    <ul class="flex-container">
-        <li class="header-item" id="header-logo-button"><a href="/"><img class="logo-image" src="/assets/images/pioco.png" /></a></li>
-        {% for p in site.data.primary_nav %}
-        <li class="header-item"
-          {%- if p.link == '/' -%}
-            {% if page.url == p.link %} class="current" {%- endif %}
-          {%- else -%}
-            {% if page.url contains p.link %} class="current" {%- endif %}
-          {%- endif -%}
-        >
-          <a href="{{ p.link }}" 
-            {%- if p.open_in_new_window == true -%}
-              target="_blank"
-            {%- endif -%}
-          >{{ p.title }}
-          {%- if p.open_in_new_window == true -%}
-            &nbsp;<i class="fas fa-external-link-alt"></i>
-          {%- endif -%}</a>
-        </li>
-        {% endfor %}
-        <li class="header-item">
-            <div class="some-buttons">
-                <a href="https://facebook.com/piocory"><i class="fab fa-facebook-square"></i></a> 
-                &nbsp;<a href="https://twitter.com/pioco_ry"><i class="fab fa-twitter-square"></i></a> 
-                &nbsp;<a href="https://instagram.com/pioco_ry"><i class="fab fa-instagram"></i></a> 
-                &nbsp;<a href="https://github.com/pioco"><i class="fab fa-github-square"></i></a>
-                &nbsp;<a href="https://www.linkedin.com/groups/12142283/"><i class="fab fa-linkedin"></i></a>
-                &nbsp;<a href="https://piocory.slack.com/"><i class="fab fa-slack"></i></a>
-            </div>
-        </li>
-    </ul>
-    <div class="flex-container">
-        <a href="/"><img id="header-logo" src="/assets/images/Logo-Slogan-Color.png" /></a>
-    </div>
-
+  <ul class="flex-container">
+    <li class="header-item" id="header-logo-button"><a href="/"><img class="logo-image" src="/assets/images/pioco.png" /></a></li>
+    {% for p in site.data.primary_nav %}
+    <li class="header-item"
+      {%- if p.link == '/' -%}
+        {% if page.url == p.link %} class="current" {%- endif %}
+      {%- else -%}
+        {% if page.url contains p.link %} class="current" {%- endif %}
+      {%- endif -%}
+    >
+      <a href="{{ p.link }}"
+        {%- if p.open_in_new_window == true -%}
+          target="_blank"
+        {%- endif -%}
+      >{{ p.title }}
+      {%- if p.open_in_new_window == true -%}
+        &nbsp;<i class="fas fa-external-link-alt"></i>
+      {%- endif -%}</a>
+    </li>
+    {% endfor %}
+    <li class="header-item">
+      <div class="some-buttons">
+        <a href="https://facebook.com/piocory"><i class="fab fa-facebook-square"></i></a>
+        &nbsp;<a href="https://twitter.com/pioco_ry"><i class="fab fa-twitter-square"></i></a>
+        &nbsp;<a href="https://instagram.com/pioco_ry"><i class="fab fa-instagram"></i></a>
+        &nbsp;<a href="https://github.com/pioco"><i class="fab fa-github-square"></i></a>
+        &nbsp;<a href="https://www.linkedin.com/groups/12142283/"><i class="fab fa-linkedin"></i></a>
+        &nbsp;<a href="https://piocory.slack.com/"><i class="fab fa-slack"></i></a>
+      </div>
+    </li>
+  </ul>
+  <div class="flex-container">
+    <a href="/"><img id="header-logo" src="/assets/images/Logo-Slogan-Color.png" /></a>
+  </div>
 </header>
