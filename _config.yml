@@ -41,5 +41,6 @@ exclude:
   - .gitignore
   - .jekyll-cache
   - CNAME
+  - LICENSE
   - icomoon-selection.json
-  - readme.md
+  - README.md
