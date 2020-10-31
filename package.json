@@ -1,0 +1,26 @@
+{
+  "name": "pioco.github.io",
+  "version": "0.1.0",
+  "description": "Pioco ry website",
+  "scripts": {
+    "build": "npm run build:styles",
+    "build:styles": "NODE_ENV=production tailwindcss build assets/css/styles.css -o assets/css/main.css",
+    "build:styles:dev": "NODE_ENV=development tailwindcss build assets/css/styles.css -o assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pioco/pioco.github.io.git"
+  },
+  "author": "Pioco ry",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pioco/pioco.github.io/issues"
+  },
+  "homepage": "https://pioco.fi",
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss-cli": "^8.2.0",
+    "purgecss": "^3.0.0",
+    "tailwindcss": "^1.9.6"
+  }
+}
