@@ -4,137 +4,46 @@
 
 /* Add custom CSS to this file, not main.css which is built with `npm run build` */
 
-:root {
-  --logo-size: 50px;
-}
-
 body {
-  background-color: #dddddd;
+  @apply bg-pioco-light;
   margin: 0;
-  height: 100%;
 }
 
-a {
-  color: black;
-}
-
-a i {
-  color: #ffffff;
-}
-
-.header {
+.site-header {
+  background-size: cover;
+  background-repeat: no-repeat;
   background-image: linear-gradient(
       to bottom,
       rgba(255, 255, 255, 0) 0%,
-      rgba(221, 221, 221, 1) 50%
+      rgba(221, 221, 221, 1) 75%
     ),
     url(/assets/images/cover-photo.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 20vh;
 }
 
-.header a {
-  text-decoration: none !important;
-  border-bottom-style: none;
-  color: white;
+a {
+  @apply text-pioco-blue;
 }
 
-.header a i {
-  text-decoration: none !important;
-  border-bottom-style: none;
-  color: white;
+h1 {
+  @apply text-4xl;
 }
 
-.some-buttons {
-  font-size: xx-large;
+h2 {
+  @apply text-3xl;
 }
 
-.flex-container {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-
-  flex-flow: row wrap;
-  -webkit-flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: flex-start;
+h3 {
+  @apply text-2xl;
 }
 
-.header-item {
-  background: #f83e3e;
-  padding: 0em 1em;
-  margin-top: 10px;
-
-  color: white;
-  font-weight: bold;
-  font-size: large;
-  text-align: center;
-  vertical-align: middle;
-  line-height: calc(var(--logo-size) + 2.5px);
+h4 {
+  @apply text-xl;
 }
 
-.logo-image {
-  max-width: var(--logo-size);
-  max-height: var(--logo-size);
-  vertical-align: middle;
+h5 {
+  @apply text-lg;
 }
 
-#header-logo {
-  background: none;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  margin-left: -33vw;
-  max-width: none;
-}
-
-#header-logo-button {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-
-@media screen and (max-width: 600px) {
-  #header-logo {
-    display: none;
-  }
-
-  .header-item {
-    padding: 0em 0.5em;
-  }
-
-  .header-item:first-child {
-    padding-top: 0px;
-    padding-left: 0px;
-    background: none;
-    flex-shrink: 2;
-  }
-
-  .flex-container {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-
-  article {
-    padding-top: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-}
-
-@media screen and (min-width: 601px) {
-  #header-logo-button {
-    display: none;
-  }
-
-  article {
-    padding-top: 1rem;
-    padding-left: 15vw;
-    padding-right: 15vw;
-  }
+h6 {
+  @apply font-bold;
 }

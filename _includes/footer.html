@@ -1,0 +1,14 @@
+<footer class="container mx-auto">
+  <nav class="flex flex-row justify-center">
+    {% for i in site.data.some_nav %}
+    <a
+      class="bg-pioco-orange text-white leading-none text-3xl p-3 mx-1"
+      href="{{ i.link }}"
+      target="_blank"
+    >
+      <i class="{{ i.icon }}"></i>
+      <span class="sr-only">{{ i.title }}</span>
+    </a>
+    {% endfor %}
+  </nav>
+</footer>
