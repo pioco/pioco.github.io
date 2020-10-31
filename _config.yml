@@ -38,9 +38,13 @@ feed:
 
 exclude:
   - .editorconfig
+  - .liquidrc
   - .gitignore
   - .jekyll-cache
   - CNAME
   - LICENSE
   - icomoon-selection.json
   - README.md
+  - "*.config.js"
+  - package*.json
+  - node_modules

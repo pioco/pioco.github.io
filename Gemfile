@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem "jekyll-mentions"
-gem "jekyll-sitemap"
+
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem "jekyll-mentions"
+  gem "jekyll-sitemap"
+end
