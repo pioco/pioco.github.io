@@ -5,7 +5,14 @@ module.exports = {
   },
   purge: ["./**/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "pioco-orange": "#f83e3e",
+        "pioco-blue": "#0b3954",
+        "pioco-dark": "#2d2d2d",
+        "pioco-light": "#dddddd",
+      },
+    },
   },
   variants: {},
   plugins: [],
