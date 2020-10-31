@@ -1,20 +1,25 @@
----
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
----
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-$logo-size: 50px;
+/* Add custom CSS to this file, not main.css which is built with `npm run build` */
+
+:root {
+  --logo-size: 50px;
+}
 
 body {
   background-color: #dddddd;
   margin: 0;
   height: 100%;
-  a {
-    color: black;
-  }
-  a i {
-    color: #ffffff;
-  }
+}
+
+a {
+  color: black;
+}
+
+a i {
+  color: #ffffff;
 }
 
 .header {
@@ -27,18 +32,18 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 20vh;
+}
 
-  a {
-    text-decoration: none !important;
-    border-bottom-style: none;
-    color: white;
-  }
+.header a {
+  text-decoration: none !important;
+  border-bottom-style: none;
+  color: white;
+}
 
-  a i {
-    text-decoration: none !important;
-    border-bottom-style: none;
-    color: white;
-  }
+.header a i {
+  text-decoration: none !important;
+  border-bottom-style: none;
+  color: white;
 }
 
 .some-buttons {
@@ -72,12 +77,12 @@ body {
   font-size: large;
   text-align: center;
   vertical-align: middle;
-  line-height: ($logo-size + 2.5px);
+  line-height: calc(var(--logo-size) + 2.5px);
 }
 
 .logo-image {
-  max-width: $logo-size;
-  max-height: $logo-size;
+  max-width: var(--logo-size);
+  max-height: var(--logo-size);
   vertical-align: middle;
 }
 
