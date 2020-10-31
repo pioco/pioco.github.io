@@ -6,125 +6,129 @@
 $logo-size: 50px;
 
 body {
-    background-color: #DDDDDD;
-    margin: 0;
-    height: 100%;
-    a {
-        color: black;
-    }
-    a i {
-        color: #FFFFFF;
-    }
+  background-color: #dddddd;
+  margin: 0;
+  height: 100%;
+  a {
+    color: black;
+  }
+  a i {
+    color: #ffffff;
+  }
 }
 
 .header {
-    background-image: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(221,221,221,1) 50%), url(/assets/images/cover-photo.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 20vh;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(221, 221, 221, 1) 50%
+    ),
+    url(/assets/images/cover-photo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 20vh;
 
-    a {
-        text-decoration: none !important;
-        border-bottom-style: none;
-        color: white;
-    }
-    
-    a i {
-        text-decoration: none !important;
-        border-bottom-style: none;
-        color: white;
-    }
-    
+  a {
+    text-decoration: none !important;
+    border-bottom-style: none;
+    color: white;
+  }
+
+  a i {
+    text-decoration: none !important;
+    border-bottom-style: none;
+    color: white;
+  }
 }
 
 .some-buttons {
-    font-size: xx-large
+  font-size: xx-large;
 }
 
 .flex-container {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-    
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    
-    flex-flow: row wrap;
-    -webkit-flex-flow: row wrap;
-    justify-content: space-around;
-    align-items: flex-start
-  }
-  
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
 .header-item {
-    background: #F83E3E;
-    padding: 0em 1em;
-    margin-top: 10px;
-    
-    color: white;
-    font-weight: bold;
-    font-size: large;
-    text-align: center;
-    vertical-align: middle;
-    line-height: ($logo-size+2.5px);
-  }
+  background: #f83e3e;
+  padding: 0em 1em;
+  margin-top: 10px;
+
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+  vertical-align: middle;
+  line-height: ($logo-size + 2.5px);
+}
 
 .logo-image {
-    max-width: $logo-size;
-    max-height: $logo-size;
-    vertical-align: middle;
-  }
+  max-width: $logo-size;
+  max-height: $logo-size;
+  vertical-align: middle;
+}
 
 #header-logo {
-    background: none;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: -33vw;
+  background: none;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: -33vw;
 }
 
 #header-logo-button {
-    margin-top: 10px;
-    margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 600px) {
-    #header-logo {
-        display: none;
-    }
+  #header-logo {
+    display: none;
+  }
 
-    .header-item {
-        padding: 0em 0.5em;
-    }
+  .header-item {
+    padding: 0em 0.5em;
+  }
 
-    .header-item:first-child {
-        padding-top: 0px;
-        padding-left: 0px;
-        background: none;
-        flex-shrink: 2;
-    }
+  .header-item:first-child {
+    padding-top: 0px;
+    padding-left: 0px;
+    background: none;
+    flex-shrink: 2;
+  }
 
-    .flex-container {
-        padding-left: 1em;
-        padding-right: 1em;
-    }
+  .flex-container {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 
-    article {
-        padding-top: 1em;
-        padding-left: 1em;
-        padding-right: 1em;
-    }
+  article {
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
 }
 
 @media screen and (min-width: 601px) {
-    #header-logo-button {
-        display: none;
-    }
+  #header-logo-button {
+    display: none;
+  }
 
-    article {
-        padding-top: 1rem;
-        padding-left: 15vw;
-        padding-right: 15vw;
-    }
+  article {
+    padding-top: 1rem;
+    padding-left: 15vw;
+    padding-right: 15vw;
+  }
 }
