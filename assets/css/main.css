@@ -602,6 +602,30 @@ video {
   }
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.bg-pioco-orange {
+  --bg-opacity: 1;
+  background-color: #f83e3e;
+  background-color: rgba(248, 62, 62, var(--bg-opacity));
+}
+
+.bg-pioco-blue {
+  --bg-opacity: 1;
+  background-color: #0b3954;
+  background-color: rgba(11, 57, 84, var(--bg-opacity));
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -626,6 +650,22 @@ video {
   display: none;
 }
 
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
 .flex-auto {
   flex: 1 1 auto;
 }
@@ -636,12 +676,73 @@ video {
   clear: both;
 }
 
+.font-bold {
+  font-weight: 700;
+}
+
+.h-16 {
+  height: 4rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+}
+
+.leading-none {
+  line-height: 1;
+}
+
+.mx-1 {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+.my-8 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
+
 .overflow-auto {
   overflow: auto;
 }
 
 .overflow-hidden {
   overflow: hidden;
+}
+
+.p-3 {
+  padding: 0.75rem;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .fixed {
@@ -670,6 +771,16 @@ video {
 
 .left-0 {
   left: 0;
+}
+
+.text-white {
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+}
+
+.w-16 {
+  width: 4rem;
 }
 
 @-webkit-keyframes spin {
@@ -740,137 +851,61 @@ video {
 
 /* Add custom CSS to this file, not main.css which is built with `npm run build` */
 
-:root {
-  --logo-size: 50px;
-}
-
 body {
+  --bg-opacity: 1;
   background-color: #dddddd;
+  background-color: rgba(221, 221, 221, var(--bg-opacity));
   margin: 0;
-  height: 100%;
 }
 
-a {
-  color: black;
-}
-
-a i {
-  color: #ffffff;
-}
-
-.header {
+.site-header {
+  background-size: cover;
+  background-repeat: no-repeat;
   background-image: linear-gradient(
       to bottom,
       rgba(255, 255, 255, 0) 0%,
-      rgba(221, 221, 221, 1) 50%
+      rgba(221, 221, 221, 1) 75%
     ),
     url(/assets/images/cover-photo.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 20vh;
 }
 
-.header a {
-  text-decoration: none !important;
-  border-bottom-style: none;
-  color: white;
+a {
+  --text-opacity: 1;
+  color: #0b3954;
+  color: rgba(11, 57, 84, var(--text-opacity));
 }
 
-.header a i {
-  text-decoration: none !important;
-  border-bottom-style: none;
-  color: white;
+h1 {
+  font-size: 2.25rem;
 }
 
-.some-buttons {
-  font-size: xx-large;
+h2 {
+  font-size: 1.875rem;
 }
 
-.flex-container {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
-  align-items: flex-start;
+h3 {
+  font-size: 1.5rem;
 }
 
-.header-item {
-  background: #f83e3e;
-  padding: 0em 1em;
-  margin-top: 10px;
-  color: white;
-  font-weight: bold;
-  font-size: large;
-  text-align: center;
-  vertical-align: middle;
-  line-height: calc(var(--logo-size) + 2.5px);
+h4 {
+  font-size: 1.25rem;
 }
 
-.logo-image {
-  max-width: var(--logo-size);
-  max-height: var(--logo-size);
-  vertical-align: middle;
+h5 {
+  font-size: 1.125rem;
 }
 
-#header-logo {
-  background: none;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  margin-left: -33vw;
-  max-width: none;
-}
-
-#header-logo-button {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-
-@media screen and (max-width: 600px) {
-  #header-logo {
-    display: none;
-  }
-
-  .header-item {
-    padding: 0em 0.5em;
-  }
-
-  .header-item:first-child {
-    padding-top: 0px;
-    padding-left: 0px;
-    background: none;
-    flex-shrink: 2;
-  }
-
-  .flex-container {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-
-  article {
-    padding-top: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-}
-
-@media screen and (min-width: 601px) {
-  #header-logo-button {
-    display: none;
-  }
-
-  article {
-    padding-top: 1rem;
-    padding-left: 15vw;
-    padding-right: 15vw;
-  }
+h6 {
+  font-weight: 700;
 }
 
 @media (min-width: 640px) {
 }
 
 @media (min-width: 768px) {
+  .md\:block {
+    display: block;
+  }
 }
 
 @media (min-width: 1024px) {
