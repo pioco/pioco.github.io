@@ -1,0 +1,18 @@
+- title: Facebook
+  link: https://facebook.com/piocory
+  icon: fab fa-facebook-square
+- title: Twitter
+  link: https://twitter.com/pioco_ry
+  icon: fab fa-twitter-square
+- title: Instagram
+  link: https://instagram.com/pioco_ry
+  icon: fab fa-instagram
+- title: GitHub
+  link: https://github.com/pioco
+  icon: fab fa-github-square
+- title: LinkedIn
+  link: https://www.linkedin.com/groups/12142283/
+  icon: fab fa-linkedin
+- title: Slack
+  link: https://piocory.slack.com/
+  icon: fab fa-slack
