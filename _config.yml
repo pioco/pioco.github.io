@@ -38,6 +38,7 @@ feed:
 
 exclude:
   - .editorconfig
+  - .liquidrc
   - .gitignore
   - .jekyll-cache
   - CNAME
