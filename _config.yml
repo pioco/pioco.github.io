@@ -44,3 +44,6 @@ exclude:
   - LICENSE
   - icomoon-selection.json
   - README.md
+  - "*.config.js"
+  - package*.json
+  - node_modules

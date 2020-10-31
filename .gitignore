@@ -4,9 +4,8 @@ _site
 .jekyll-metadata
 Gemfile.lock
 
-### Gulp ###
-package.json
-/node_modules/
+### Node.js ###
+node_modules
 
 ### Atom ###
 .ftpconfig
