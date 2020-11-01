@@ -18,11 +18,15 @@
       type="image/x-icon"
       href="{{ site.baseurl }}/favicon.ico?"
     />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,700;0,800;1,700;1,800&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     {% include header.html %}
 
-    <div class="container mx-auto my-8">{{ content }}</div>
+    <main class="md:container my-8 mx-4 md:mx-auto">{{ content }}</main>
 
     {% include footer.html %}
   </body>
