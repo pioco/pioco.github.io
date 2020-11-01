@@ -2,7 +2,7 @@
   link: /
   open_in_new_window: false
   icon: /assets/images/pioco.png
-- title: Liity Pioco ry:n jäseneksi
+- title: Liity jäseneksi
   link: /jasenyys/
   open_in_new_window: false
 - title: Tietoa yhdistyksestä
@@ -13,12 +13,6 @@
   open_in_new_window: false
 - title: Hallitus
   link: /hallitus/
-  open_in_new_window: false
-- title: Yhteystiedot
-  link: /yhteystiedot/
-  open_in_new_window: false
-- title: Tietosuoja
-  link: /tietosuoja/
   open_in_new_window: false
 - title: In English
   link: /in_english/

@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Piocon hallitus
+title: Pioco ry:n hallitus
 permalink: /hallitus/
 redirect_from:
   - /docs/hallitus/
 ---
 
-### 2020
+## 2020
 
 - Juho Myllylahti, pj
 - Aleksi Pöyhtäri, vpj
 - Joonas Tiala, rahastonhoitaja
 - Heidi Wikman, the best
 
-### 2018-2019
+## 2018-2019
 
 - Juho Myllylahti, pj
 - Aleksi Pöyhtäri, vpj

@@ -1,14 +1,31 @@
-<footer class="container mx-auto">
-  <nav class="flex flex-row justify-center">
+<footer class="md:container my-16 mx-4 md:mx-auto">
+  <nav class="flex flex-row justify-start mb-8">
     {% for i in site.data.some_nav %}
-    <a
-      class="bg-pioco-orange text-white leading-none text-3xl p-3 mx-1"
-      href="{{ i.link }}"
-      target="_blank"
-    >
-      <i class="{{ i.icon }}"></i>
-      <span class="sr-only">{{ i.title }}</span>
-    </a>
+      <a
+        class="flex items-center bg-pioco-orange text-white leading-none text-3xl mt-2 mr-2 p-3"
+        href="{{ i.link }}"
+        target="_blank"
+      >
+        <i class="{{ i.icon }}"></i>
+        <span class="sr-only">{{ i.title }}</span>
+      </a>
+    {% endfor %}
+  </nav>
+  <nav class="flex flex-row items-center justify-start mb-8">
+    {% for i in site.data.bottom_nav %}
+      <a
+        class="text-pioco-dark hover:text-pioco-orange leading-none font-serif font-normal"
+        href="{{ i.link }}"
+        {% if i.open_in_new_window == true %} target="_blank" {% endif %}
+      >
+        {{ i.title }}
+        {% if i.open_in_new_window == true %}
+          &nbsp;<i class="fas fa-external-link-alt"></i>
+        {% endif %}
+      </a>
+      {% if i != site.data.bottom_nav.last %}
+        <span class="px-2">|</span>
+      {% endif %}
     {% endfor %}
   </nav>
 </footer>

@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Yhdistyksen säännöt
+title: Pioco ry:n säännöt
 permalink: /saannot/
 redirect_from:
   - /docs/saannot/
 ---
 
-### Nimi ja kotipaikka
+## Nimi ja kotipaikka
 
 Yhdistyksen nimi on Pioco ry. Ja sen kotipaikka on Oulun kaupunki.
 
-### Tarkoitus ja toimintamuodot
+## Tarkoitus ja toimintamuodot
 
 Yhdistyksen tarkoituksena on Oulun yliopistossa tietojenkäsittelytieteitä sekä -oppia opiskelleiden henkilöiden yhteyden ylläpito opiskelutovereihinsa ja Oulun yliopistoon, sekä lujittaa akateemista henkeä.
 
@@ -36,25 +36,25 @@ Jäsen voi erota yhdistyksestä ilmoittamalla siitä kirjallisesti hallitukselle
 
 Hallitus voi erottaa jäsenen yhdistyksestä, jos jäsen on jättänyt täyttämättä ne velvoitukset, joihin hän on yhdistykseen liittymällä sitoutunut tai on menettelyllään yhdistyksessä tai sen ulkopuolella huomattavasti vahingoittanut yhdistystä.
 
-### Yhdistyksen jäsenmaksu
+## Yhdistyksen jäsenmaksu
 
 Yhdistyksen vuosikokous päättää varsinaisten jäsenten jäsen-, sekä liittymismaksun suuruudesta vuosittain. Kunniajäseniltä tai kunniapuheenjohtajilta ei peritä jäsenmaksua. Kannatusjäsenien jäsen- ja liittymismaksun suuruuden päättää yhdistyksen hallitus tapauskohtaisesti.
 
 Yhdistyksen vuosikokous voi vahvistaa perusteet, joilla hallitus voi kokonaan tai osittain vapauttaa varsinaisen jäsenen jäsenmaksuvelvollisuudesta opintojen, varusmiespalvelun tai muun vastaavan syyn perusteella.
 
-### Hallitus
+## Hallitus
 
 Yhdistyksen asioita hoitaa hallitus, johon kuuluu yhdistyksen kokouksessa valittu puheenjohtaja ja 2-9 muuta jäsentä. Hallituksen toimikausi on vuosikokousten välinen aika. Hallitus valitsee keskuudestaan varapuheenjohtajan ja ottaa keskuudestaan tai ulkopuoleltaan sihteerin, rahastonhoitajan ja muut tarvittavat toimihenkilöt. Hallitus kokoontuu puheenjohtajan tai hänen estyneenä ollessaan varapuheenjohtajan kutsusta, kun he katsovat siihen olevan aihetta tai kun vähintään puolet hallituksen jäsenistä sitä vaatii. Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, puheenjohtaja tai varapuheenjohtaja mukaanluettuna, on läsnä. Äänestykset ratkaistaan yksinkertaisella äänten enemmistöllä. Äänten mennessä tasan puheenjohtajan ääni ratkaisee. Varsinaisilla jäsenillä on oikeus pyynnöstä tutkia hallituksen pöytäkirjoja.
 
-### Yhdistyksen nimen kirjoittaminen
+## Yhdistyksen nimen kirjoittaminen
 
 Yhdistyksen nimen kirjoittaa hallituksen puheenjohtaja, varapuheenjohtaja tai rahastonhoitaja, kukin yksin.
 
-### Tilikausi ja tilintarkastus
+## Tilikausi ja tilintarkastus
 
 Yhdistyksen tilikausi on kalenterivuosi. Tilinpäätös tarvittavine asiakirjoineen ja hallituksen vuosikertomus on annettava toiminnantarkastajille viimeistään kolme viikkoa ennen vuosikokousta. Toiminnantarkastajien tulee antaa kirjallinen lausuntonsa viimeistään 10 päivää ennen vuosikokousta hallitukselle.
 
-### Yhdistyksen kokoukset
+## Yhdistyksen kokoukset
 
 Yhdistyksen vuosikokous pidetään vuosittain hallituksen määräämänä päivänä syys-joulukuussa. Ylimääräinen kokous pidetään milloin yhdistyksen kokous niin päättää, haliitus katsoo sen tarpeelliseksi tai vähintään 1/10 yhdistyksen äänioikeutetuista jäsenistä sitä kirjallisesti vaatii hallitukselle ilmoittamansa asian käsittelyä varten.
 
@@ -77,7 +77,7 @@ Yhdistyksen vuosikokouksessa käsitellään seuraavat asiat:
 
 Mikäli yhdistyksen jäsen haluaa saada jonkin asian yhdistyksen kevät- tai syyskokouksen käsiteltäväksi, on hänen ilmoitettava siitä kirjallisesti hallitukselle niin hyvissä ajoin, että asia voidaan sisällyttää kokouskutsuun.
 
-### Sääntöjen muuttaminen ja yhdistyksen purkaminen
+## Sääntöjen muuttaminen ja yhdistyksen purkaminen
 
 Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään viiden kuudesosan (5/6) enemmistöllä annetuista äänistä. Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta.
 

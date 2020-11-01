@@ -1,0 +1,302 @@
+---
+layout: blank
+permalink: /joulukalenteri/
+redirect_from:
+ - /docs/joulukalenteri/
+---
+
+<link href="/assets/joulukalenteri/joulukalenteri.css" rel="stylesheet" type="text/css"/>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/axios/dist/axios.standalone.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/CryptoJS/rollups/hmac-sha256.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/CryptoJS/rollups/sha256.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/CryptoJS/components/hmac.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/CryptoJS/components/enc-base64.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/url-template/url-template.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/apiGatewayCore/sigV4Client.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/apiGatewayCore/apiGatewayClient.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/apiGatewayCore/simpleHttpClient.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/lib/apiGatewayCore/utils.js" type="text/javascript"></script>
+<script src="/assets/joulukalenteri/apiGateway-js-sdk/apigClient.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var apidata;
+  var apigClient = apigClientFactory.newClient({apiKey: "bh5aopzE0e33PPLGb17At6xskGFfKCBi6gIrxRBV"});
+  apigClient
+    .christmasCalendarGet()
+    .then(function (result) {
+      apidata = result.data;
+      console.log(apidata);
+      apidata.calendar_doors.map((day) => {
+        Array
+          .prototype
+          .map
+          .call(document.getElementsByClassName("day-" + day.key), (item) => {
+            Array
+              .prototype
+              .map
+              .call(item.getElementsByClassName("back"), (door) => {
+                door.innerHTML = "<a href=\"" + day.link + "\" target=\"_blank\"><i class=\"fas fa-link\"></i></a>";
+              });
+          });
+        Array
+          .prototype
+          .map
+          .call(document.getElementsByClassName("checkbox-day-" + day.key), (item) => {
+            item.disabled = false;
+          });
+      });
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+</script>
+
+<div class="support-grid"></div>
+<section class="grid-1">
+  <div class="title">
+    <img src="/assets/joulukalenteri/1915322.svg">
+  </div>
+  <div class="day-1">
+    <label>
+      <input class="checkbox-day-1" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">1</div>
+          <div class="back">
+            <a href="https://www.google.fi/" target="_blank">
+              <i class="fas fa-link"></i>
+            </a>
+          </div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-2">
+    <label>
+      <input class="checkbox-day-2" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">2</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-3">
+    <label>
+      <input class="checkbox-day-3" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">3</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-4">
+    <label>
+      <input class="checkbox-day-4" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">4</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-5">
+    <label>
+      <input class="checkbox-day-5" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">5</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-6">
+    <label>
+      <input class="checkbox-day-6" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">6</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-7">
+    <label>
+      <input class="checkbox-day-7" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">7</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-8">
+    <label>
+      <input class="checkbox-day-8" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">8</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-9">
+    <label>
+      <input class="checkbox-day-9" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">9</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-10">
+    <label>
+      <input class="checkbox-day-10" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">10</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-11">
+    <label>
+      <input class="checkbox-day-11" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">11</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-12">
+    <label>
+      <input class="checkbox-day-12" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">12</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-13">
+    <label>
+      <input class="checkbox-day-13" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">13</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-14">
+    <label>
+      <input class="checkbox-day-14" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">14</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-15">
+    <label>
+      <input class="checkbox-day-15" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">15</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-16">
+    <label>
+      <input class="checkbox-day-16" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">16</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-17">
+    <label>
+      <input class="checkbox-day-17" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">17</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-18">
+    <label>
+      <input class="checkbox-day-18" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">18</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-19">
+    <label>
+      <input class="checkbox-day-19" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">19</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-20">
+    <label>
+      <input class="checkbox-day-20" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">20</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-21">
+    <label>
+      <input class="checkbox-day-21" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">21</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-22">
+    <label>
+      <input class="checkbox-day-22" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">22</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-23">
+    <label>
+      <input class="checkbox-day-23" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">23</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+  <div class="day-24">
+    <label>
+      <input class="checkbox-day-24" disabled="true" type="checkbox">
+        <div class="door">
+          <div class="front">24</div>
+          <div class="back"></div>
+        </div>
+      </input>
+    </label>
+  </div>
+</section>

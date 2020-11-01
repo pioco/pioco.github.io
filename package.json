@@ -18,9 +18,11 @@
   },
   "homepage": "https://pioco.fi",
   "devDependencies": {
+    "@tailwindcss/typography": "^0.2.0",
     "autoprefixer": "^10.0.1",
     "postcss-cli": "^8.2.0",
     "purgecss": "^3.0.0",
     "tailwindcss": "^1.9.6"
-  }
+  },
+  "dependencies": {}
 }
