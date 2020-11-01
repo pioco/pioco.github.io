@@ -22,5 +22,8 @@
     "postcss-cli": "^8.2.0",
     "purgecss": "^3.0.0",
     "tailwindcss": "^1.9.6"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.2.0"
   }
 }
