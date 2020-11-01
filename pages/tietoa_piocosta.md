@@ -6,19 +6,17 @@ redirect_from:
   - /docs/tietoa_piocosta/
 ---
 
-<h3>Yleistä</h3>
+## Yleistä
+
 Pioco ry on riippumaton alumniyhdistys Oulun yliopistossa
 tietojenkäsittelytieteitä opiskelleille tai laitoksella työskennelleille
 ihmisille. Pioco ry on perustettu vuonna 2018, perustamiskokous pidettiin Oulun
 yliopiston Tellus-areenalla.
-<br />
-<br />
-<h3>FAQ</h3>
-<b
-  >Onko tarkoituksena kilpailla Blankon/Potkyn/yliopiston alumnitoiminnan/jne.
-  kanssa?</b
->
-<br />
+
+## FAQ
+
+### Onko tarkoituksena kilpailla Blankon/Potkyn/yliopiston alumnitoiminnan/jne. kanssa?
+
 Ei. Blanko on tarkoitettu aktiivisille opiskelijoille. Potkyn toimintaan
 osallistuminen on suositeltavaa, mutta sen tavoite on hiukan eri
 alumniyhdistykseen verrattuna, eikä esimerkiksi vuosikurssitapaamisen
@@ -27,23 +25,22 @@ voi liittyä kuka tahansa IT-alan ihminen). Yliopiston alumnitoiminta taas on
 jäänyt ainakin toistaiseksi etäiseksi, ja vuosikurssisähköpostilistojen jne.
 muodostaminen on tuskin pääasiallisena ideana “virallisessa” alumnitoiminnassa.
 Lisäksi yliopiston alumnitoiminta on luultavasti suunnattu valmistuneille.
-<br />
-<b>Onko ajatuksena järjestää tapahtumia?</b>
-<br />
+
+### Onko ajatuksena järjestää tapahtumia?
+
 Pidemmän päälle ehkä, mutta aluksi päähaasteena on vuosikurssisähköpostilistojen
 ja edes jonkinlaisen löyhän yhteisön perustaminen. Tämä riippuu tietysti paljon
 (toivottavasti runsaslukuisesta!) tulevasta jäsenistöstä ja kuinka aktiivisia
 puuhaajia heidän joukostaan löytyy.
-<br />
-<b>Onko kyseessä Blankon jatke?</b>
-<br />
+
+### Onko kyseessä Blankon jatke?
+
 Tarkoituksena on muodostaa yhdistys kaikille tollilla opiskelleille, eli Blankon
 jäsenkirja ei ole vaatimus. Oletettavasti jutunjuurta löytyy ihan aikuis- ja
 työelämäänkin liittyvistä jutuista, joten ovet ovat avoimina :-)
-<br />
-<b>Miksi jäsenhakemuslomakkeella kysytään esim. osoite- ja puhelintietoja?
-Miksi lomake on niin pitkä?</b>
-<br />
+
+### Miksi jäsenhakemuslomakkeella kysytään esim. osoite- ja puhelintietoja? Miksi lomake on niin pitkä?
+
 Jäsenhakemuslomakkeen pakolliset tiedot ovat minimaaliset, pääosin yhdistyslain
 minimissään vaatimat tiedot. Lomakkeelle on kuitenkin laitettu useita eri
 yhteystietokenttiä, jotta esimerkiksi vuosikymmenen päästä yhteydenottoyrityksellä

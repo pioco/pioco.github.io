@@ -7,9 +7,9 @@ redirect_from:
 ---
 
 Pioco ry.<br />
-https://pioco.fi/<br />
-hallitus@pioco.fi<br />
-#pioco @ IRCnet<br />
-<br />
+[https://pioco.fi/](https://pioco.fi/)<br />
+[hallitus@pioco.fi](mailto:hallitus@pioco.fi)<br />
+#pioco @ IRCnet
+
 Hallituksen jäsenille voit laittaa sähköpostia kaavalla
-etunimi.sukunimi@pioco.fi
+_etunimi.sukunimi@pioco.fi_.
