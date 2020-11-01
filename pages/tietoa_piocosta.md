@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tietoa Piocosta
+title: Tietoa Pioco ry:stä
 permalink: /tietoa_piocosta/
 redirect_from:
   - /docs/tietoa_piocosta/

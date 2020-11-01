@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Piocon hallitus
+title: Pioco ry:n hallitus
 permalink: /hallitus/
 redirect_from:
   - /docs/hallitus/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yhdistyksen säännöt
+title: Pioco ry:n säännöt
 permalink: /saannot/
 redirect_from:
   - /docs/saannot/
