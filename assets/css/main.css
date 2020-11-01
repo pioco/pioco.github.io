@@ -1508,6 +1508,10 @@ video {
   width: 4rem;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .transition {
   transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
 }
