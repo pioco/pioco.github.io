@@ -1,13 +1,17 @@
-<header class="site-header">
-  <div class="md:container mx-4 md:mx-auto">
-    <nav class="flex flex-row flex-wrap justify-start">
+<header class="site-header -m-2">
+  <div class="md:container mx-4 md:mx-auto p-2">
+    <nav class="flex flex-row flex-wrap justify-center md:justify-start">
       {% for i in site.data.primary_nav %}
         <a href="{{ i.link }}"
-          class="flex items-center font-bold text-base md:text-lg font-sans mt-2 mr-2
-            {% if i.icon %}
-              bg-pioco-orange
+          class="flex items-center font-bold text-base md:text-lg font-sans mb-2 mr-2 text-white hover:bg-pioco-dark
+            {% if i.icon %} p-4 {% else %} p-5 {% endif %}
+            {% if i.link == '/' %}
+              {% if page.url == i.link %}
+                bg-pioco-blue
+              {% else %}
+                bg-pioco-orange
+              {% endif %}
             {% else %}
-              p-4 text-white
               {% if page.url contains i.link %}
                 bg-pioco-blue
               {% else %}
@@ -17,7 +21,7 @@
           {% if i.open_in_new_window == true %} target="_blank" {% endif %}
         >
           {% if i.icon %}
-            <img class="h-16 w-16" src="{{ i.icon }}"/>
+            <img class="h-8 w-8" src="{{ i.icon }}"/>
           {% else %}
             {{ i.title }}
           {% endif %}
@@ -27,6 +31,6 @@
         </a>
       {% endfor %}
     </nav>
-    <img class="my-32 hidden md:block" src="/assets/images/Logo-Slogan-Color.png" alt="Pioco ry logo" />
+    <img class="my-32 hidden md:block" src="/assets/images/pioco-logo-slogan-color.svg" alt="Pioco ry logo" />
   </div>
 </header>

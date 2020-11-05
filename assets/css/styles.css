@@ -4,6 +4,18 @@
 
 /* Add custom CSS to this file, not main.css which is built with `npm run build` */
 
+* {
+  @apply transition-colors;
+  @apply ease-in-out;
+  @apply duration-200;
+}
+
+@media (prefers-reduced-motion) {
+  * {
+    @apply transition-none;
+  }
+}
+
 .site-header {
   background-size: cover;
   background-repeat: no-repeat;
