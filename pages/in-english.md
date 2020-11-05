@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Pioco in English
-permalink: /in_english/
+title: Pioco ry in English
+permalink: /in-english/
 redirect_from:
+  - /docs/in-english/
+  - /in_english/
   - /docs/in_english/
 ---
 
