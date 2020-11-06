@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Tietoa Pioco ry:stä
-permalink: /tietoa_piocosta/
+permalink: /tietoa/
 redirect_from:
+  - /docs/tietoa/
   - /docs/tietoa_piocosta/
+  - /tietoa_piocosta/
 ---
 
 ## Yleistä
