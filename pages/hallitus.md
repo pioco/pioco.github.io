@@ -6,6 +6,20 @@ redirect_from:
   - /docs/hallitus/
 ---
 
+## 2022
+
+- Aleksi Pöyhtäri, pj
+- Juho Myllylahti, vpj
+- Joonas Tiala, rahastonhoitaja
+- Tommi Sikanen, patukki
+
+## 2021
+
+- Aleksi Pöyhtäri, pj
+- Juho Myllylahti, vpj
+- Joonas Tiala, rahastonhoitaja
+- Tommi Sikanen, patukki
+
 ## 2020
 
 - Juho Myllylahti, pj
