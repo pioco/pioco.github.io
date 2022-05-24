@@ -16,6 +16,11 @@ koska kuten hyvin tiedämme vei teollisuus monet mennessään ja valmistuminen
 saattoi jäädä, Piocon pääasiallinen tarkoitus on fasilitoida yhteydenpitoa
 vanhoihin luento- ja kiltiskavereihin, eikä se katso opintojen valmiusastetta.
 
+Opintoja ei ole vielä tarvinnut täysin lopettaa, voit käyttää vapaata harkintaa
+alatko mieltää itseäsi enemmän jo ns. alumniosastolle kuin päätoimiseksi
+opiskelijaksi. Eli jos vaikka viimeistelet viimeisiä palautuksia tai olet 
+enemmän jo kiinni työelämässä, niin olet enemmän kuin tervetullut!
+
 Liittymällä Pioco ry:n jäseneksi pääset osaksi alumniverkostoamme ja
 mahdollistat paremman yhteydenpidon tietoja käpisteleviin opiskelu- ja
 työkavereihisi myös tulevaisuudessa. Eikä maksa mitään, vain pari minuuttia
