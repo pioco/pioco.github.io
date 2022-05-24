@@ -10,6 +10,12 @@ redirect_from:
 
 ### [Pääset täyttämään jäsenhakemuksen klikkaamalla tästä <i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLScycebFXq0PbHvJvBfoN0RsSggpIPqQkKyQ74Hsf6maXoG0mQ/viewform?usp=sf_link)
 
+Pioco ry:n jäseneksi ovat tervetulleita kaikki tollilla opinnot aloittaneet
+tai esimerkiksi työsuhteessa olleet henkilöt. Tämä on tietoinen valinta,
+koska kuten hyvin tiedämme vei teollisuus monet mennessään ja valmistuminen
+saattoi jäädä, Piocon pääasiallinen tarkoitus on fasilitoida yhteydenpitoa
+vanhoihin luento- ja kiltiskavereihin, eikä se katso opintojen valmiusastetta.
+
 Liittymällä Pioco ry:n jäseneksi pääset osaksi alumniverkostoamme ja
 mahdollistat paremman yhteydenpidon tietoja käpisteleviin opiskelu- ja
 työkavereihisi myös tulevaisuudessa. Eikä maksa mitään, vain pari minuuttia
