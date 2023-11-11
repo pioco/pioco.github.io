@@ -8,7 +8,7 @@ redirect_from:
   - /docs/liity/
 ---
 
-### [Pääset täyttämään jäsenhakemuksen klikkaamalla tästä <i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLScycebFXq0PbHvJvBfoN0RsSggpIPqQkKyQ74Hsf6maXoG0mQ/viewform?usp=sf_link)
+### [Pääset täyttämään jäsenhakemuksen klikkaamalla tästä <i class="fas fa-external-link-alt"></i>](https://docs.google.com/forms/d/e/1FAIpQLSfgB9vHsWMcFq_gqdpspuSq1GCrHNA0sBb9Bdp5TkwU6lanTQ/viewform?usp=sf_link)
 
 Pioco ry:n jäseneksi ovat tervetulleita kaikki tollilla opinnot aloittaneet
 tai esimerkiksi työsuhteessa olleet henkilöt. Tämä on tietoinen valinta,
